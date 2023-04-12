@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Implement a `map()` function from scratch
+- Implement a `map()` function from scratch.
 - Demonstrate using `map()`
 
 ## Introduction
